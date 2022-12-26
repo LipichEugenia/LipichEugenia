@@ -14,6 +14,7 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 ## Testing Documentation
+- [Postman Collections](https://github.com/LipichEugenia/Postman-Collections.git)
 - [SQL Queries](https://github.com/LipichEugenia/SQL-Queries.git)
 ## Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/eugenia_titari)

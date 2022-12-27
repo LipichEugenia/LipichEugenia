@@ -14,6 +14,7 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 ## Testing Documentation
+- [Test Cases](https://docs.google.com/spreadsheets/d/1qKDag2ZwGrsdmImhuw-SNP2eolOWfd3WbXliatSevpc/edit?usp=sharing)
 - [Postman Collections](https://github.com/LipichEugenia/Postman-Collections.git)
 - [SQL Queries](https://github.com/LipichEugenia/SQL-Queries.git)
 ## Follow me

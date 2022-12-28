@@ -16,6 +16,7 @@
 ## Testing Documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/1bGHwV1h-yCy6FzlS3dx8g5gllGQ3oSNHMHt9rzoElfo/edit?usp=sharing)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1qKDag2ZwGrsdmImhuw-SNP2eolOWfd3WbXliatSevpc/edit?usp=sharing)
+- [Bug Reports](https://docs.google.com/spreadsheets/d/1cE2nHvduzpGsejbfh6X2ottS7ucvu-N39QSAbOKwqeI/edit?usp=sharing)
 - [Postman Collections](https://github.com/LipichEugenia/Postman-Collections.git)
 - [SQL Queries](https://github.com/LipichEugenia/SQL-Queries.git)
 ## Follow me

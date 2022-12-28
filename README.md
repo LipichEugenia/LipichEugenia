@@ -1,7 +1,7 @@
 ![Header](https://github.com/LipichEugenia/LipichEugenia/blob/main/assets/cover.png)
 ## I'm a beginner QA Engineer
 ## My CV
-[Link to my CV]
+[Link to my CV](https://drive.google.com/file/d/1c1uEbOBILnaWfxEIWEOeMECQ_a9RszrI/view?usp=sharing)
 
 ## Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

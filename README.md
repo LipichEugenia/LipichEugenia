@@ -12,6 +12,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ## Testing Documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/1bGHwV1h-yCy6FzlS3dx8g5gllGQ3oSNHMHt9rzoElfo/edit?usp=sharing)

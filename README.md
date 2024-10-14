@@ -1,5 +1,5 @@
 ![Header](https://github.com/LipichEugenia/LipichEugenia/blob/main/assets/cover.png)
-## I'm a beginner QA Engineer
+## I'm a QA Engineer with 1,5 years of experience
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1GvtQ-9wFrRgGl3pKBrgeCGsHpX8xFx8u/view?usp=sharing)
 

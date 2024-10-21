@@ -1,7 +1,7 @@
 ![Header](https://github.com/LipichEugenia/LipichEugenia/blob/main/assets/cover.png)
 ## I'm a QA Engineer with 1,5 years of experience
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1GvtQ-9wFrRgGl3pKBrgeCGsHpX8xFx8u/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1AQVWPz2rUnAs1gKZOu5wSbw2hTIpWcOV/view?usp=sharing)
 
 ## Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
